@@ -1,16 +1,26 @@
 # material_cupertino_dailytask
 
-A new Flutter project.
+## Day1
 
-## Getting Started
+<div align = "center">
 
-This project is a starting point for a Flutter application.
+ <img src = "https://github.com/user-attachments/assets/0896c156-a445-4805-b5fd-70244cd995fe"  height=35% width=22%  />
+    
+  <img src = "https://github.com/user-attachments/assets/89387233-b6c9-4440-82d6-3c395473edb8"  height=35% width=22%  />
+   <img src = "https://github.com/user-attachments/assets/00953c9d-0e3e-46ae-abda-d1e7fef8cb0c"  height=35% width=22%  />
+   <img src = "https://github.com/user-attachments/assets/713cca3a-2c56-4a4c-b210-969f876ec8cc"  height=35% width=22%  />
+   <img src = "https://github.com/user-attachments/assets/6ebf3157-229f-457c-bfc9-c70d291f1924"  height=35% width=22%  />
 
-A few resources to get you started if this is your first Flutter project:
+   <img src = "https://github.com/user-attachments/assets/8c1337f4-9c60-4013-832e-07d141a6410d"  height=35% width=22%  />
+   <img src = "https://github.com/user-attachments/assets/37e2f694-11fa-41b6-b19e-2ca302175ccb"  height=35% width=22%  />
+   <img src = "https://github.com/user-attachments/assets/c37e251e-c4ee-4db0-9f71-971f2d770f79"  height=35% width=22%  />
+  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  <video height="450" src="https://github.com/user-attachments/assets/c7781861-c9a7-415f-87ba-cfafa47ce311" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+</div>
+
